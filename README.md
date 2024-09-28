@@ -18,8 +18,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
 [linkedin]: https://www.linkedin.com/in/martel-hiemsouvanh-245ab8132/ 
 <!--
 **telly-tell/telly-tell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
