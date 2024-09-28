@@ -1,5 +1,3 @@
-## Hi there my name is Martel
-
 <h1>Hi, I'm Martel, an <a href="https://www.linkedin.com/in/martel-hiemsouvanh-245ab8132/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
