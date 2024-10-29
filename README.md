@@ -16,7 +16,7 @@
 
 [linkedin]: https://www.linkedin.com/in/martel-hiemsouvanh-245ab8132/ 
 <!--
-**telly-tell/telly-tell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MartelHiemsouvanh/MartelHiemsouvanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
